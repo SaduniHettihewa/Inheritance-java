@@ -17,7 +17,7 @@ public class Inheritance {
         System.out.println(" Department -: "+se.department);
         System.out.println(" Section -: "+se.section);
         System.out.println(" Salary  -: Rs." +total );
-        
+//        
         System.out.println("-----------------------");
        //object create for QA
        QA qa = new QA();
